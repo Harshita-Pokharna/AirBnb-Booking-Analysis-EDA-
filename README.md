@@ -3,6 +3,16 @@
 ![AirBnb](https://freight.cargo.site/t/original/i/eedf781211e0557854a09ab805e422790aecd6f3ab9a8eae7717ce33344ce7a8/2.gif)
 ![AirBnb](https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/7li8020623010434.gif?size=480:*)
 
+# Table of Contents
+
+- [Introduction](#Introduction)
+- [About the Dataset](#About-the-Dataset)
+- [Python Libraries Used](#Python-Libraries-Used)
+- [Project Work Flow](#Project-Work-Flow)
+- [Purpose of the Analysis ](#Purpose-of-the-Analysis)
+
+
+
 ## Introduction
 <ul style="list-style-type: circle;">
   <li>Global Hospitality Platform: Founded in 2008 by Brian Chesky, Joe Gebbia, and Nathan Blecharczyk,Airbnb has transformed the way people travel and experience the world. Airbnb began as a simple idea to provide affordable accommodations by connecting travelers with hosts who have extra space to rent. What started as a small startup has now become a global hospitality phenomenon, offering millions of unique accommodations in over 220 countries and regions.</li>
@@ -49,3 +59,10 @@ By analyzing this data,we may be able to understand the trends and patterns of A
 <li>Handling Outliers</li>
 
 <li>Data Visualization</li>
+
+## Purpose of the analysis
+<ul style="list-style-type: circle;">
+<li>"The purpose of this Airbnb booking analysis is to gain insights into the booking patterns, pricing trends, and customer preferences within the Airbnb ecosystem.
+<li>>This analysis will inform strategic decisions for hosts, property managers, and stakeholders, enabling them to maximize occupancy rates, increase revenue, and deliver exceptional hospitality services in line with evolving market trends and customer expectations."</li>
+<li>This data can be analyzed and used for security, business decisions, understanding of customers’ and providers’ (hosts) behavior and performance on the platform, guiding marketing initiatives, implementation of innovative additional services and much more.</li>
+</ul>
