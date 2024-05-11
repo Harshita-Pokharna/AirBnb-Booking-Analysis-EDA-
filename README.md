@@ -1,6 +1,7 @@
 # CAPSTONE-PROJECT-1--AirBnb-Booking-Analysis
-
-
+![AirBnb](https://adamhoward56.github.io/Airbnb/airbnb_newyork.jpg)
+![AirBnb](https://freight.cargo.site/t/original/i/eedf781211e0557854a09ab805e422790aecd6f3ab9a8eae7717ce33344ce7a8/2.gif)
+![AirBnb](https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/7li8020623010434.gif?size=480:*)
 
 ## Introduction
 <ul style="list-style-type: circle;">
