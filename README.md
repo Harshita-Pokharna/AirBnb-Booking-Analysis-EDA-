@@ -1,7 +1,5 @@
 # CAPSTONE-PROJECT-1--AirBnb-Booking-Analysis
 ![AirBnb](https://adamhoward56.github.io/Airbnb/airbnb_newyork.jpg)
-![AirBnb](https://freight.cargo.site/t/original/i/eedf781211e0557854a09ab805e422790aecd6f3ab9a8eae7717ce33344ce7a8/2.gif)
-![AirBnb](https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/7li8020623010434.gif?size=480:*)
 
 # Table of Contents
 
@@ -12,6 +10,8 @@
 - [Purpose of the Analysis ](#Purpose-of-the-Analysis)
 
 
+![AirBnb](https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/7li8020623010434.gif?size=480:*)
+![AirBnb](https://freight.cargo.site/t/original/i/eedf781211e0557854a09ab805e422790aecd6f3ab9a8eae7717ce33344ce7a8/2.gif)
 
 ## Introduction
 <ul style="list-style-type: circle;">
@@ -63,6 +63,6 @@ By analyzing this data,we may be able to understand the trends and patterns of A
 ## Purpose of the analysis
 <ul style="list-style-type: circle;">
 <li>"The purpose of this Airbnb booking analysis is to gain insights into the booking patterns, pricing trends, and customer preferences within the Airbnb ecosystem.
-<li>>This analysis will inform strategic decisions for hosts, property managers, and stakeholders, enabling them to maximize occupancy rates, increase revenue, and deliver exceptional hospitality services in line with evolving market trends and customer expectations."</li>
+<li>This analysis will inform strategic decisions for hosts, property managers, and stakeholders, enabling them to maximize occupancy rates, increase revenue, and deliver exceptional hospitality services in line with evolving market trends and customer expectations."</li>
 <li>This data can be analyzed and used for security, business decisions, understanding of customers’ and providers’ (hosts) behavior and performance on the platform, guiding marketing initiatives, implementation of innovative additional services and much more.</li>
 </ul>
