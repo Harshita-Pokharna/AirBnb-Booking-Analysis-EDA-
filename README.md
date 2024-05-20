@@ -2,12 +2,12 @@
 ![AirBnb](https://adamhoward56.github.io/Airbnb/airbnb_newyork.jpg)
 ![Airbnb](https://nebula.wsimg.com/081f48a333f107ad4ce3cb09ca8d0ab6?AccessKeyId=AD279F1A177B2FB2B2B7&disposition=0&alloworigin=1)
 
-# Table of Contents
+# Table of Contents   
 
 - [Introduction](#Introduction)
 - [About the Dataset](#About-the-Dataset)
-- [Python Libraries Used](#Python-Libraries-Used)
-- [Project Work Flow](#Project-Work-Flow)
+- [Python Libraries Used](#Python-Libraries-Used)      
+- [Project Work Flow](#Project-Work-Flow) 
 - [Purpose of the Analysis ](#Purpose-of-the-Analysis)
 
 
