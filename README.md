@@ -1,5 +1,6 @@
 # CAPSTONE-PROJECT-1--AirBnb-Booking-Analysis
 ![AirBnb](https://adamhoward56.github.io/Airbnb/airbnb_newyork.jpg)
+![Airbnb](https://nebula.wsimg.com/081f48a333f107ad4ce3cb09ca8d0ab6?AccessKeyId=AD279F1A177B2FB2B2B7&disposition=0&alloworigin=1)
 
 # Table of Contents
 
@@ -10,7 +11,6 @@
 - [Purpose of the Analysis ](#Purpose-of-the-Analysis)
 
 
-![AirBnb](https://freight.cargo.site/t/original/i/eedf781211e0557854a09ab805e422790aecd6f3ab9a8eae7717ce33344ce7a8/2.gif)
 
 ## Introduction
 <ul style="list-style-type: circle;">
