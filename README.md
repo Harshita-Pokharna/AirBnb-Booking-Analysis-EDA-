@@ -24,10 +24,10 @@ This Project includes 1 colab notebook, 1 ppt pdf
 
 ### Executable Files:
 
-[Airbnb Booking Analysis](https://colab.research.google.com/drive/14jiGa4yEAzzv55Nir3vS59o425eqKd89#scrollTo=MFCSDZ0o-FYJ) - Includes all codes required for airbnb booking analysis
+[Airbnb Booking Analysis](https://github.com/Harshita-Pokharna/CAPSTONE-PROJECT-1--AirBnb-Booking-Analysis/blob/main/CAPSTONE_PROJECT_No_1_AirBnb_Bookings_Analysis.ipynb)- Includes all codes required for airbnb booking analysis
 
 ### Output:
-[Google Colab](https://colab.research.google.com/drive/14jiGa4yEAzzv55Nir3vS59o425eqKd89#scrollTo=MFCSDZ0o-FYJ) - All the outputs are visible in the provided colab notebook.
+[Google Colab](https://github.com/Harshita-Pokharna/CAPSTONE-PROJECT-1--AirBnb-Booking-Analysis/blob/main/CAPSTONE_PROJECT_No_1_AirBnb_Bookings_Analysis.ipynb) - All the outputs are visible in the provided colab notebook.
   
 ### Input Files:
 Airbnb NYC Data.csv - It contains the basic details of the airbnb booking such as host_name,room_type,neighbourhood_group etc.
