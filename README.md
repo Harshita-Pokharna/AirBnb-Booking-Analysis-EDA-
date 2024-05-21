@@ -4,7 +4,7 @@
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 # Table of Contents   
 - [Abstract](#Abstract)
-- [Project File Description](#Project File Description)
+- [Project Files Description](#Project-Files-Description)
 - [Introduction](#Introduction)
 - [About the Dataset](#About-the-Dataset)
 - [Python Libraries Used](#Python-Libraries-Used)      
@@ -18,8 +18,8 @@ Airbnb is a global online marketplace for lodging and tourism experiences, it ha
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-# Project File Description
-This Project includes 1 colab notebook, 1 ppt pdf:
+# Project Files Description
+This Project includes 1 colab notebook, 1 ppt pdf
 
 ### Executable Files:
 
@@ -32,7 +32,7 @@ This Project includes 1 colab notebook, 1 ppt pdf:
 Airbnb NYC Data.csv - It contains the basic details of the airbnb booking such as host_name,room_type,neighbourhood_group etc.
 
 ### Data Source:
-Dataset - Dataset taken from Almabetter</li>
+[Dataset] - Dataset taken from Almabetter
 
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
