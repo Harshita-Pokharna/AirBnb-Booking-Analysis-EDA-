@@ -10,6 +10,7 @@
 - [Python Libraries Used](#Python-Libraries-Used)      
 - [Project Work Flow](#Project-Work-Flow) 
 - [Purpose of the Analysis ](#Purpose-of-the-Analysis)
+- [Illustration](#Illustration)
   
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -99,3 +100,22 @@ By analyzing this data,we may be able to understand the trends and patterns of A
 <li>This analysis will inform strategic decisions for hosts, property managers, and stakeholders, enabling them to maximize occupancy rates, increase revenue, and deliver exceptional hospitality services in line with evolving market trends and customer expectations."</li>
 <li>This data can be analyzed and used for security, business decisions, understanding of customers’ and providers’ (hosts) behavior and performance on the platform, guiding marketing initiatives, implementation of innovative additional services and much more.</li>
 </ul>
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## Illustration
+Here is one illustration from my Airbnb booking analysis project:
+
+This is a multivariate analysis code to plot and find the relationship in Room Type Vs Price in Neighbourhood Group 
+![image](https://github.com/Harshita-Pokharna/CAPSTONE-PROJECT-1--AirBnb-Booking-Analysis/assets/169404176/d2882371-47f8-4bed-b4e1-44d6d1c49ba9)
+
+Below is the visualization of the above code snippet:
+![image](https://github.com/Harshita-Pokharna/CAPSTONE-PROJECT-1--AirBnb-Booking-Analysis/assets/169404176/7fc3f686-18f0-4ba0-82e8-ca78d328ebc2)
+
+
+
+
+
+
+
+
