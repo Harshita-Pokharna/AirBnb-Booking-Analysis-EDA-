@@ -1,6 +1,7 @@
 # CAPSTONE-PROJECT-1--AirBnb-Booking-Analysis
 ![AirBnb](https://adamhoward56.github.io/Airbnb/airbnb_newyork.jpg)
-![Airbnb](https://nebula.wsimg.com/081f48a333f107ad4ce3cb09ca8d0ab6?AccessKeyId=AD279F1A177B2FB2B2B7&disposition=0&alloworigin=1)
+![image](https://github.com/Harshita-Pokharna/CAPSTONE-PROJECT-1--AirBnb-Booking-Analysis/assets/169404176/5706f80a-e3d7-4c1a-8125-62f0658e8244)
+
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 # Table of Contents   
 - [Abstract](#Abstract)
@@ -115,6 +116,8 @@ Enhanced User Interfaces: Develop more intuitive and user-friendly interfaces fo
 * Real-Time Data Analysis: Implement real-time data processing capabilities to provide up-to-the-minute insights and recommendations for hosts and guests.
 * Demand Forecasting: Implement more sophisticated machine learning models to predict booking demand based on seasonality, local events, economic conditions, and emerging travel trends.
 * Pricing Optimization: Develop dynamic pricing algorithms that consider competition, demand fluctuations, and market trends to help hosts optimize their pricing strategies.
+* 
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Conclusion
 The Airbnb booking analysis of NYC's 2019 data reveals crucial insights into the short-term rental market:
