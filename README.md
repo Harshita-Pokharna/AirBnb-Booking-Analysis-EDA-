@@ -10,6 +10,7 @@
 - [Project Work Flow](#Project-Work-Flow) 
 - [Purpose of the Analysis ](#Purpose-of-the-Analysis)
 - [Future Scope](#Future-Scope)
+- [Challenges Faced](#Challenges-Faced)
 - [Conclusion](#Conclusion)
 
   
@@ -31,7 +32,18 @@ This Project includes 1 colab notebook.
 [Google Colab](https://github.com/Harshita-Pokharna/CAPSTONE-PROJECT-1--AirBnb-Booking-Analysis/blob/main/CAPSTONE_PROJECT_No_1_AirBnb_Bookings_Analysis.ipynb) - All the outputs are visible in the provided colab notebook.
   
 ### Input Files:
-#### Airbnb NYC Data.csv - It contains the basic details of the airbnb booking such as:
+#### Airbnb NYC Data.csv 
+
+### Data Source:
+[Dataset] - Dataset taken from Almabetter
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## About the Dataset
+<ul style="list-style-type: circle;">
+<li>I have used Airbnb bookings 2019 New York City data  .</li>
+
+<li>This dataset contains information about Airbnb bookings in New York City in 2019 that includes information about the basic details of the airbnb booking such as:
  'name',
  'host_id',
  'host_name',
@@ -46,19 +58,9 @@ This Project includes 1 colab notebook.
  'last_review',
  'reviews_per_month',
  'calculated_host_listings_count',
- 'availability_365'
-
-### Data Source:
-[Dataset] - Dataset taken from Almabetter
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-## About the Dataset
-<ul style="list-style-type: circle;">
-<li>I have used Airbnb bookings 2019 New York City data  .</li>
-
-<li>This dataset contains information about Airbnb bookings in New York City in 2019 that includes information about the hosts, geographical data, reviews and other potential predictors of price.
-By analyzing this data,we may be able to understand the trends and patterns of Airbnb use in the NYC.</li>
+ 'availability_365'.</li>
+  
+<li>By analyzing this data,we may be able to understand the trends and patterns of Airbnb use in the NYC.</li>
 
 <li>The Data includes both categorical and numeric values, providing a diverse range of information about the listings.</li>
 
@@ -121,6 +123,11 @@ The future scope of an Airbnb booking analysis project is expansive, given the d
 * Pricing Optimization: Develop dynamic pricing algorithms that consider competition, demand fluctuations, and market trends to help hosts optimize their pricing strategies.
   
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## Challenges Faced
+* Examining the business KPIs for Airbnb and devising a  solution to the problem.
+* Handling the duplicate , Null values  and outliers  in the dataset.
+* Designing multiple visualizations to summarize the information in  the dataset and successfully communicate the results and trends to  the reader.
 
 ## Conclusion
 The Airbnb booking analysis of NYC's 2019 data reveals crucial insights into the short-term rental market:
